@@ -1589,4 +1589,11 @@
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
     }
+    {
+  "product": "CopilotHQ",
+  "website": "https://www.copilothq.co/",
+  "llms-full-txt": "",
+  "llms-txt": "https://www.copilothq.co/llms.txt"
+}
+
 ]
